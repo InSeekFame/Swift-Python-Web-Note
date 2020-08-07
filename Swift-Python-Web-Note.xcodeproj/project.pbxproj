@@ -14,6 +14,7 @@
 		FAF6256424DD09D300FF11B0 /* Swift_Python_Web_Note.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FAF6256224DD09D300FF11B0 /* Swift_Python_Web_Note.xcdatamodeld */; };
 		FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAF6256524DD09D500FF11B0 /* Assets.xcassets */; };
 		FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAF6256724DD09D500FF11B0 /* LaunchScreen.storyboard */; };
+		FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */ = {isa = PBXBuildFile; fileRef = FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FAF6256524DD09D500FF11B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAF6256824DD09D500FF11B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAF6256A24DD09D500FF11B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "QLAlchemy数据库.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		FAF6255824DD09D300FF11B0 /* Swift-Python-Web-Note */ = {
 			isa = PBXGroup;
 			children = (
+				FAF6257324DD15C200FF11B0 /* Python基础 */,
 				FAF6257024DD125A00FF11B0 /* Python-Flask */,
 				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
 				FAF6256524DD09D500FF11B0 /* Assets.xcassets */,
@@ -69,6 +72,7 @@
 		FAF6257024DD125A00FF11B0 /* Python-Flask */ = {
 			isa = PBXGroup;
 			children = (
+				FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */,
 			);
 			path = "Python-Flask";
 			sourceTree = "<group>";
@@ -84,6 +88,13 @@
 				FAF6255D24DD09D300FF11B0 /* ViewController.swift */,
 			);
 			path = "XCode文件";
+			sourceTree = "<group>";
+		};
+		FAF6257324DD15C200FF11B0 /* Python基础 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Python基础";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -147,6 +158,7 @@
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,
+				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

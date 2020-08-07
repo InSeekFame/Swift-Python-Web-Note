@@ -15,6 +15,7 @@
 		FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAF6256524DD09D500FF11B0 /* Assets.xcassets */; };
 		FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAF6256724DD09D500FF11B0 /* LaunchScreen.storyboard */; };
 		FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */ = {isa = PBXBuildFile; fileRef = FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */; };
+		FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */ = {isa = PBXBuildFile; fileRef = FAF6257B24DD44EF00FF11B0 /* 423456.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FAF6257624DD180400FF11B0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FAF6257724DD185500FF11B0 /* Python基础.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python基础.md"; sourceTree = "<group>"; };
 		FAF6257824DD24F100FF11B0 /* Mac常用命令.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Mac常用命令.md"; sourceTree = "<group>"; };
+		FAF6257B24DD44EF00FF11B0 /* 423456.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 423456.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		FAF6255824DD09D300FF11B0 /* Swift-Python-Web-Note */ = {
 			isa = PBXGroup;
 			children = (
+				FAF6257A24DD425600FF11B0 /* md图片 */,
 				FAF6257924DD24FF00FF11B0 /* Mac&Linux */,
 				FAF6257324DD15C200FF11B0 /* Python基础 */,
 				FAF6257024DD125A00FF11B0 /* Python-Flask */,
@@ -109,6 +112,14 @@
 				FAF6257824DD24F100FF11B0 /* Mac常用命令.md */,
 			);
 			path = "Mac&Linux";
+			sourceTree = "<group>";
+		};
+		FAF6257A24DD425600FF11B0 /* md图片 */ = {
+			isa = PBXGroup;
+			children = (
+				FAF6257B24DD44EF00FF11B0 /* 423456.png */,
+			);
+			path = "md图片";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -173,6 +184,7 @@
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,
 				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
+				FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

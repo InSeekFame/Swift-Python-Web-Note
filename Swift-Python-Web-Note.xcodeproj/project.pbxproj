@@ -29,6 +29,8 @@
 		FAF6256A24DD09D500FF11B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "QLAlchemy数据库.md"; sourceTree = "<group>"; };
 		FAF6257624DD180400FF11B0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FAF6257724DD185500FF11B0 /* Python基础.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python基础.md"; sourceTree = "<group>"; };
+		FAF6257824DD24F100FF11B0 /* Mac常用命令.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Mac常用命令.md"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		FAF6255824DD09D300FF11B0 /* Swift-Python-Web-Note */ = {
 			isa = PBXGroup;
 			children = (
+				FAF6257924DD24FF00FF11B0 /* Mac&Linux */,
 				FAF6257324DD15C200FF11B0 /* Python基础 */,
 				FAF6257024DD125A00FF11B0 /* Python-Flask */,
 				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
@@ -95,8 +98,17 @@
 			isa = PBXGroup;
 			children = (
 				FAF6257624DD180400FF11B0 /* README.md */,
+				FAF6257724DD185500FF11B0 /* Python基础.md */,
 			);
 			path = "Python基础";
+			sourceTree = "<group>";
+		};
+		FAF6257924DD24FF00FF11B0 /* Mac&Linux */ = {
+			isa = PBXGroup;
+			children = (
+				FAF6257824DD24F100FF11B0 /* Mac常用命令.md */,
+			);
+			path = "Mac&Linux";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -16,11 +16,11 @@
 
 ### MYSQL-python中间件的介绍与安装
 
-
+见安装教程
 
 ### Flask-SQLAlchemy的介绍与安装
 
-
+见安装教程
 
 ### Flask-Script的介绍与安装
 

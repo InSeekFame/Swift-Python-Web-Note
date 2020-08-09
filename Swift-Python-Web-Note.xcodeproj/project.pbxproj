@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */; };
+		1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */ = {isa = PBXBuildFile; fileRef = 1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */; };
 		FAF6255A24DD09D300FF11B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255924DD09D300FF11B0 /* AppDelegate.swift */; };
 		FAF6255C24DD09D300FF11B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */; };
 		FAF6255E24DD09D300FF11B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255D24DD09D300FF11B0 /* ViewController.swift */; };
@@ -19,6 +21,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
+		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
+		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
 		FAF6255624DD09D300FF11B0 /* Swift-Python-Web-Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Python-Web-Note.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF6255924DD09D300FF11B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -46,6 +51,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1E860A2C24DFB2300065D6AA /* MySQL 命令 */ = {
+			isa = PBXGroup;
+			children = (
+				1E860A2B24DFB2280065D6AA /* MySQL.md */,
+			);
+			path = "MySQL 命令";
+			sourceTree = "<group>";
+		};
 		FAF6254D24DD09D300FF11B0 = {
 			isa = PBXGroup;
 			children = (
@@ -72,6 +85,7 @@
 				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
 				FAF6256524DD09D500FF11B0 /* Assets.xcassets */,
 				FAF6256A24DD09D500FF11B0 /* Info.plist */,
+				1E860A2C24DFB2300065D6AA /* MySQL 命令 */,
 			);
 			path = "Swift-Python-Web-Note";
 			sourceTree = "<group>";
@@ -80,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				FAF6257424DD173A00FF11B0 /* QLAlchemy数据库.md */,
+				1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */,
 			);
 			path = "Python-Flask";
 			sourceTree = "<group>";
@@ -102,6 +117,7 @@
 			children = (
 				FAF6257624DD180400FF11B0 /* README.md */,
 				FAF6257724DD185500FF11B0 /* Python基础.md */,
+				1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */,
 			);
 			path = "Python基础";
 			sourceTree = "<group>";
@@ -183,8 +199,10 @@
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,
+				1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */,
 				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
 				FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */,
+				1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

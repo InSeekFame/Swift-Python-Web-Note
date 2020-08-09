@@ -71,22 +71,17 @@ git clone git@github.com:InSeekFame/Swift-Python-Web-Note.git
 git pull
 ```
 
-#### 3.git commit
-
-1.用命令：git status -s 查看修改的文件
+#### 3.提交操作：
 
 ```
-git status -s
+# 添加全部
+git add . 
+# 提交全部
+git commit -m '更新日志' 
+#提交到服务器  
+git push origin master
 ```
 
-2.因为中文的关系，提交操作最好用git gui 来完成，如果非要用命令就使用一次提交所有文件的命令
+#### 4.特别说明：
 
-```
-git commit -a
-```
-
-git commit具体操作，可以查看：https://www.runoob.com/git/git-basic-operations.html
-
-#### 4.git push
-
-最好也用git GUI来提交，熟悉了再来搞命令行
+这里虽然提交到了无端，但利用XCode拉下来的时候，在XCode工程里的引用是不可见的，所以需要手动拖进XCode里去

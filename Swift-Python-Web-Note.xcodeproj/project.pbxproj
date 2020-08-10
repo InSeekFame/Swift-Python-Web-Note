@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */; };
 		1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */ = {isa = PBXBuildFile; fileRef = 1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */; };
+		FA7377B924E0D66500600A85 /* git常用操作.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377B824E0D66500600A85 /* git常用操作.md */; };
+		FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377C124E14CAF00600A85 /* 兼职网址.md */; };
 		FAF6255A24DD09D300FF11B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255924DD09D300FF11B0 /* AppDelegate.swift */; };
 		FAF6255C24DD09D300FF11B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */; };
 		FAF6255E24DD09D300FF11B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255D24DD09D300FF11B0 /* ViewController.swift */; };
@@ -24,6 +26,11 @@
 		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
 		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
+		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
+		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
+		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
+		FA7377BF24E0EBBF00600A85 /* 语法词典.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法词典.md"; sourceTree = "<group>"; };
+		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
 		FAF6255624DD09D300FF11B0 /* Swift-Python-Web-Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Python-Web-Note.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF6255924DD09D300FF11B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,12 +58,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1E860A2C24DFB2300065D6AA /* MySQL 命令 */ = {
+		FA7377B724E0D66500600A85 /* 常用命令语法 */ = {
 			isa = PBXGroup;
 			children = (
 				1E860A2B24DFB2280065D6AA /* MySQL.md */,
+				FAF6257824DD24F100FF11B0 /* Mac常用命令.md */,
+				FA7377B824E0D66500600A85 /* git常用操作.md */,
+				FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */,
+				FA7377BE24E0E98100600A85 /* 致命的思维误区.md */,
+				FA7377C124E14CAF00600A85 /* 兼职网址.md */,
 			);
-			path = "MySQL 命令";
+			path = "常用命令语法";
+			sourceTree = "<group>";
+		};
+		FA7377C024E0EBC800600A85 /* 语法词典 */ = {
+			isa = PBXGroup;
+			children = (
+				FA7377BF24E0EBBF00600A85 /* 语法词典.md */,
+			);
+			path = "语法词典";
 			sourceTree = "<group>";
 		};
 		FAF6254D24DD09D300FF11B0 = {
@@ -78,14 +98,14 @@
 		FAF6255824DD09D300FF11B0 /* Swift-Python-Web-Note */ = {
 			isa = PBXGroup;
 			children = (
+				FA7377C024E0EBC800600A85 /* 语法词典 */,
+				FA7377B724E0D66500600A85 /* 常用命令语法 */,
 				FAF6257A24DD425600FF11B0 /* md图片 */,
-				FAF6257924DD24FF00FF11B0 /* Mac&Linux */,
 				FAF6257324DD15C200FF11B0 /* Python基础 */,
 				FAF6257024DD125A00FF11B0 /* Python-Flask */,
 				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
 				FAF6256524DD09D500FF11B0 /* Assets.xcassets */,
 				FAF6256A24DD09D500FF11B0 /* Info.plist */,
-				1E860A2C24DFB2300065D6AA /* MySQL 命令 */,
 			);
 			path = "Swift-Python-Web-Note";
 			sourceTree = "<group>";
@@ -120,14 +140,6 @@
 				1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */,
 			);
 			path = "Python基础";
-			sourceTree = "<group>";
-		};
-		FAF6257924DD24FF00FF11B0 /* Mac&Linux */ = {
-			isa = PBXGroup;
-			children = (
-				FAF6257824DD24F100FF11B0 /* Mac常用命令.md */,
-			);
-			path = "Mac&Linux";
 			sourceTree = "<group>";
 		};
 		FAF6257A24DD425600FF11B0 /* md图片 */ = {
@@ -196,12 +208,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */,
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,
 				1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */,
 				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
 				FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */,
+				FA7377B924E0D66500600A85 /* git常用操作.md in Resources */,
 				1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

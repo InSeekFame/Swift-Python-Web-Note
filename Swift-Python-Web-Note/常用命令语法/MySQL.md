@@ -39,6 +39,12 @@ show tables;
 desc student;   # student 是表名
 ```
 
+- 7.删除一张表：
+
+```
+drop table student;   # student 是表名
+```
+
 
 
 

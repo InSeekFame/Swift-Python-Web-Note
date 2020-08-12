@@ -132,7 +132,7 @@ Windows说明：如果电脑里安装有多个 Python 版本，`Python2.7`和`Py
 4. 查看 flask 版本： 
 
    ```
-   	1.执行 python命令进入环境
+   	1.执行 python命令进入环境 # 在虚拟环境那里执行
    
    ​	2.执行导入 flask 包，import flask
    
@@ -158,6 +158,17 @@ Windows说明：如果电脑里安装有多个 Python 版本，`Python2.7`和`Py
       	3.打印 flask 版本号：print(flask.__version__),结果会显示 版本号
 
 5. 如果想要卸载，就执行 `pip uninstall flask`，如果提示权限不够，就是 sudo 命令：`sudo pip uninstall flask`
+
+
+
+#### 3.用现有的虚拟环境创建Flask
+
+- 1.如果不添加本地的虚拟环境，则每个工程都会创建一个虚拟环境，做demo时就很没有必要
+- 2.但是部署到服务器的项目，最好就自己新建一个虚拟环境
+
+![image-20200811152831919](/Users/qiangge/Documents/MyWorks/Swift-Python-Web-Note/Swift-Python-Web-Note/md图片/添加本地flask虚拟环境2.png)
+
+![image-20200811152612379](/Users/qiangge/Documents/MyWorks/Swift-Python-Web-Note/Swift-Python-Web-Note/md图片/添加本地的flask虚拟环境.png)
 
 
 
@@ -242,7 +253,7 @@ password: qkr6#&pqM3xM # 这是安装得到的初始密码，先登录进去，�
 
 ```
 这一步要进入 mysql 才能修改
-mysql> mysqlassword for root@localhost = password('942100426');
+mysql> set password for root@localhost = password('942100426');
 其他修改数据库的方法再 Google 很多，不写了
 ```
 

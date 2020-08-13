@@ -33,6 +33,7 @@
 		FA7377BF24E0EBBF00600A85 /* 语法词典.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法词典.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
+		FA92EDE624E531C4001256AD /* HTML清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "HTML清单.md"; sourceTree = "<group>"; };
 		FAF6255624DD09D300FF11B0 /* Swift-Python-Web-Note.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Swift-Python-Web-Note.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAF6255924DD09D300FF11B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +70,7 @@
 				FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */,
 				FA7377BE24E0E98100600A85 /* 致命的思维误区.md */,
 				FA92EDC824E3DE2A001256AD /* CSS知识清单.md */,
+				FA92EDE624E531C4001256AD /* HTML清单.md */,
 				FA7377C124E14CAF00600A85 /* 兼职网址.md */,
 			);
 			path = "常用命令语法";

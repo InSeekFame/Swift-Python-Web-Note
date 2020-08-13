@@ -30,3 +30,16 @@
 
 
 
+### Flask-Migrate管理数据库实例
+
+安装看上一步，后面补上
+
+![image-20200813225036540](H:\gitwork\Swift-Python-Web-Note\Swift-Python-Web-Note\md图片\Flask-Scripts管理数据库_1)
+
+2.执行创建命令
+
+![image-20200813225536683](H:\gitwork\Swift-Python-Web-Note\Swift-Python-Web-Note\md图片\Flask-Scripts管理数据库_2)
+
+3.给现有的表添加新字段
+
+![image-20200813235156098](H:\gitwork\Swift-Python-Web-Note\Swift-Python-Web-Note\md图片\Flask-Scripts管理数据库_3)

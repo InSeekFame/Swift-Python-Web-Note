@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */; };
 		1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */ = {isa = PBXBuildFile; fileRef = 1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */; };
+		FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */; };
 		FA7377B924E0D66500600A85 /* git常用操作.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377B824E0D66500600A85 /* git常用操作.md */; };
 		FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377C124E14CAF00600A85 /* 兼职网址.md */; };
 		FA92EDC924E3DE2A001256AD /* CSS知识清单.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92EDC824E3DE2A001256AD /* CSS知识清单.md */; };
@@ -27,6 +28,7 @@
 		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
 		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
+		FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "IOS开发难点笔录.md"; sourceTree = "<group>"; };
 		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
 		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				FA92EDE724E539E0001256AD /* 壁纸API笔录.md */,
+				FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */,
 			);
 			path = "项目笔记";
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
 				FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */,
 				FA7377B924E0D66500600A85 /* git常用操作.md in Resources */,
+				FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */,
 				1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

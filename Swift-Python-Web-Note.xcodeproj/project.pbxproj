@@ -12,6 +12,7 @@
 		FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */; };
 		FA7377B924E0D66500600A85 /* git常用操作.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377B824E0D66500600A85 /* git常用操作.md */; };
 		FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377C124E14CAF00600A85 /* 兼职网址.md */; };
+		FA92012E24EE0C2C005F3C55 /* 我的网站-开发实录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */; };
 		FA92EDC924E3DE2A001256AD /* CSS知识清单.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92EDC824E3DE2A001256AD /* CSS知识清单.md */; };
 		FAF6255A24DD09D300FF11B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255924DD09D300FF11B0 /* AppDelegate.swift */; };
 		FAF6255C24DD09D300FF11B0 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255B24DD09D300FF11B0 /* SceneDelegate.swift */; };
@@ -34,6 +35,7 @@
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
 		FA7377BF24E0EBBF00600A85 /* 语法词典.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法词典.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
+		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
 		FA92EDE624E531C4001256AD /* HTML清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "HTML清单.md"; sourceTree = "<group>"; };
 		FA92EDE724E539E0001256AD /* 壁纸API笔录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "壁纸API笔录.md"; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 			children = (
 				FA92EDE724E539E0001256AD /* 壁纸API笔录.md */,
 				FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */,
+				FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */,
 			);
 			path = "项目笔记";
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 				FA7377B924E0D66500600A85 /* git常用操作.md in Resources */,
 				FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */,
 				1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */,
+				FA92012E24EE0C2C005F3C55 /* 我的网站-开发实录.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

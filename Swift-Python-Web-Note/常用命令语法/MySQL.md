@@ -45,7 +45,7 @@ desc student;   # student 是表名
 drop table student;   # student 是表名
 ```
 
-
+8.创建一个数据库
 
 
 

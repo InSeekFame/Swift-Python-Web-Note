@@ -47,5 +47,7 @@ drop table student;   # student 是表名
 
 8.创建一个数据库
 
-
+```
+mysql> create database db_mywebsite character set utf8;
+```
 

@@ -33,8 +33,9 @@
 		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
 		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
-		FA7377BF24E0EBBF00600A85 /* 语法词典.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法词典.md"; sourceTree = "<group>"; };
+		FA7377BF24E0EBBF00600A85 /* 语法规范.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法规范.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
+		FA8171F824F661F7008B95B9 /* 情绪.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "情绪.md"; sourceTree = "<group>"; };
 		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
 		FA92EDE624E531C4001256AD /* HTML清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "HTML清单.md"; sourceTree = "<group>"; };
@@ -84,9 +85,27 @@
 		FA7377C024E0EBC800600A85 /* 语法词典 */ = {
 			isa = PBXGroup;
 			children = (
-				FA7377BF24E0EBBF00600A85 /* 语法词典.md */,
+				FA7377BF24E0EBBF00600A85 /* 语法规范.md */,
 			);
 			path = "语法词典";
+			sourceTree = "<group>";
+		};
+		FA8171F724F6616E008B95B9 /* Xcode */ = {
+			isa = PBXGroup;
+			children = (
+				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
+				FAF6256524DD09D500FF11B0 /* Assets.xcassets */,
+				FAF6256A24DD09D500FF11B0 /* Info.plist */,
+			);
+			path = Xcode;
+			sourceTree = "<group>";
+		};
+		FA8171F924F661FD008B95B9 /* 西物 */ = {
+			isa = PBXGroup;
+			children = (
+				FA8171F824F661F7008B95B9 /* 情绪.md */,
+			);
+			path = "西物";
 			sourceTree = "<group>";
 		};
 		FA92EDE824E539E7001256AD /* 项目笔记 */ = {
@@ -122,11 +141,9 @@
 				FA7377B724E0D66500600A85 /* 常用命令语法 */,
 				FAF6257A24DD425600FF11B0 /* md图片 */,
 				FAF6257324DD15C200FF11B0 /* Python基础 */,
-				FAF6257024DD125A00FF11B0 /* Python-Flask */,
-				FAF6257224DD12BE00FF11B0 /* XCode文件 */,
-				FAF6256524DD09D500FF11B0 /* Assets.xcassets */,
-				FAF6256A24DD09D500FF11B0 /* Info.plist */,
+				FA8171F724F6616E008B95B9 /* Xcode */,
 				FA92EDE824E539E7001256AD /* 项目笔记 */,
+				FA8171F924F661FD008B95B9 /* 西物 */,
 			);
 			path = "Swift-Python-Web-Note";
 			sourceTree = "<group>";
@@ -156,6 +173,7 @@
 		FAF6257324DD15C200FF11B0 /* Python基础 */ = {
 			isa = PBXGroup;
 			children = (
+				FAF6257024DD125A00FF11B0 /* Python-Flask */,
 				FAF6257624DD180400FF11B0 /* README.md */,
 				FAF6257724DD185500FF11B0 /* Python基础.md */,
 				1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */,

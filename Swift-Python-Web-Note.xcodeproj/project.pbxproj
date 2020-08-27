@@ -36,6 +36,7 @@
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
 		FA7377BF24E0EBBF00600A85 /* 语法规范.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法规范.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
+		FA79630D24F7453500456107 /* 故事-罗博特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "故事-罗博特.md"; sourceTree = "<group>"; };
 		FA8171F824F661F7008B95B9 /* 情绪.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "情绪.md"; sourceTree = "<group>"; };
 		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
@@ -99,6 +100,7 @@
 			children = (
 				FA8171F824F661F7008B95B9 /* 情绪.md */,
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
+				FA79630D24F7453500456107 /* 故事-罗博特.md */,
 			);
 			path = "西物";
 			sourceTree = "<group>";

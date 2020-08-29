@@ -27,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		1E76EC2C24F69C2D007EB745 /* 意境.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "意境.md"; sourceTree = "<group>"; };
+		1E76EC2D24FA579F007EB745 /* 即时想法.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "即时想法.md"; sourceTree = "<group>"; };
 		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
 		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
@@ -101,6 +102,7 @@
 				FA8171F824F661F7008B95B9 /* 情绪.md */,
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
 				FA79630D24F7453500456107 /* 故事-罗博特.md */,
+				1E76EC2D24FA579F007EB745 /* 即时想法.md */,
 			);
 			path = "西物";
 			sourceTree = "<group>";

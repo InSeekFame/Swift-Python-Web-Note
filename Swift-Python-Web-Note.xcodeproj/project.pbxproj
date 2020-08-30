@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E76EC2F24FAC02B007EB745 /* 第一卷.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E76EC2E24FAC02B007EB745 /* 第一卷.md */; };
 		1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */; };
 		1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */ = {isa = PBXBuildFile; fileRef = 1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */; };
 		FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */; };
@@ -28,6 +29,7 @@
 /* Begin PBXFileReference section */
 		1E76EC2C24F69C2D007EB745 /* 意境.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "意境.md"; sourceTree = "<group>"; };
 		1E76EC2D24FA579F007EB745 /* 即时想法.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "即时想法.md"; sourceTree = "<group>"; };
+		1E76EC2E24FAC02B007EB745 /* 第一卷.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "第一卷.md"; sourceTree = "<group>"; };
 		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
 		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 		FA8171F924F661FD008B95B9 /* 西物 */ = {
 			isa = PBXGroup;
 			children = (
+				1E76EC2E24FAC02B007EB745 /* 第一卷.md */,
 				FA8171F824F661F7008B95B9 /* 情绪.md */,
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
 				FA79630D24F7453500456107 /* 故事-罗博特.md */,
@@ -245,6 +248,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E76EC2F24FAC02B007EB745 /* 第一卷.md in Resources */,
 				FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */,
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,

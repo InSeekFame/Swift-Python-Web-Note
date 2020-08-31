@@ -33,6 +33,7 @@
 		1E860A2B24DFB2280065D6AA /* MySQL.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = MySQL.md; sourceTree = "<group>"; };
 		1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "SQLAlchemy-Operation.md"; sourceTree = "<group>"; };
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
+		FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "高潮故事情节设计.md"; sourceTree = "<group>"; };
 		FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "IOS开发难点笔录.md"; sourceTree = "<group>"; };
 		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
 		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				1E76EC2E24FAC02B007EB745 /* 第一卷.md */,
+				FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */,
 				FA8171F824F661F7008B95B9 /* 情绪.md */,
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
 				FA79630D24F7453500456107 /* 故事-罗博特.md */,

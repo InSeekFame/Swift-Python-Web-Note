@@ -35,6 +35,7 @@
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
 		FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "高潮故事情节设计.md"; sourceTree = "<group>"; };
 		FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "IOS开发难点笔录.md"; sourceTree = "<group>"; };
+		FA719FF724FDF25F00156AF6 /* 思考代替莽撞.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "思考代替莽撞.md"; sourceTree = "<group>"; };
 		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
 		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
@@ -108,6 +109,7 @@
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
 				FA79630D24F7453500456107 /* 故事-罗博特.md */,
 				1E76EC2D24FA579F007EB745 /* 即时想法.md */,
+				FA719FF724FDF25F00156AF6 /* 思考代替莽撞.md */,
 			);
 			path = "西物";
 			sourceTree = "<group>";

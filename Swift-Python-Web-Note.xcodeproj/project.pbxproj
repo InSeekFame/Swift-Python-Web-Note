@@ -42,6 +42,8 @@
 		FA7377BF24E0EBBF00600A85 /* 语法规范.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法规范.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
 		FA79630D24F7453500456107 /* 故事-罗博特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "故事-罗博特.md"; sourceTree = "<group>"; };
+		FA7AC5042505BFE500FF72D3 /* 目录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "目录.md"; sourceTree = "<group>"; };
+		FA8025FF2500E718002C3C5D /* 哈姆雷特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "哈姆雷特.md"; sourceTree = "<group>"; };
 		FA8171F824F661F7008B95B9 /* 情绪.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "情绪.md"; sourceTree = "<group>"; };
 		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
@@ -90,6 +92,14 @@
 			path = "常用命令语法";
 			sourceTree = "<group>";
 		};
+		FA8025FE2500E6D9002C3C5D /* MyBooks */ = {
+			isa = PBXGroup;
+			children = (
+				FA8025FF2500E718002C3C5D /* 哈姆雷特.md */,
+			);
+			path = MyBooks;
+			sourceTree = "<group>";
+		};
 		FA8171F724F6616E008B95B9 /* Xcode */ = {
 			isa = PBXGroup;
 			children = (
@@ -109,6 +119,7 @@
 				1E76EC2C24F69C2D007EB745 /* 意境.md */,
 				FA79630D24F7453500456107 /* 故事-罗博特.md */,
 				1E76EC2D24FA579F007EB745 /* 即时想法.md */,
+				FA7AC5042505BFE500FF72D3 /* 目录.md */,
 				FA719FF724FDF25F00156AF6 /* 思考代替莽撞.md */,
 			);
 			path = "西物";
@@ -149,6 +160,7 @@
 				FA8171F724F6616E008B95B9 /* Xcode */,
 				FA92EDE824E539E7001256AD /* 项目笔记 */,
 				FA8171F924F661FD008B95B9 /* 西物 */,
+				FA8025FE2500E6D9002C3C5D /* MyBooks */,
 			);
 			path = "Swift-Python-Web-Note";
 			sourceTree = "<group>";

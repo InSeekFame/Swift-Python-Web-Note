@@ -11,6 +11,7 @@
 		1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */ = {isa = PBXBuildFile; fileRef = 1E860A2D24DFB4840065D6AA /* SQLAlchemy-Operation.md */; };
 		1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */ = {isa = PBXBuildFile; fileRef = 1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */; };
 		FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */; };
+		FA715C02250711D900A58D1B /* 西物-故事.md in Resources */ = {isa = PBXBuildFile; fileRef = FA715C01250711D900A58D1B /* 西物-故事.md */; };
 		FA7377B924E0D66500600A85 /* git常用操作.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377B824E0D66500600A85 /* git常用操作.md */; };
 		FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377C124E14CAF00600A85 /* 兼职网址.md */; };
 		FA92012E24EE0C2C005F3C55 /* 我的网站-开发实录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */; };
@@ -35,6 +36,7 @@
 		1EFC2F5D24DE8A0A0083579D /* Python-PyCharm_Install.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Python-PyCharm_Install.md"; sourceTree = "<group>"; };
 		FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "高潮故事情节设计.md"; sourceTree = "<group>"; };
 		FA6FFF6B24EBA8E2002DC37F /* IOS开发难点笔录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "IOS开发难点笔录.md"; sourceTree = "<group>"; };
+		FA715C01250711D900A58D1B /* 西物-故事.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "西物-故事.md"; sourceTree = "<group>"; };
 		FA719FF724FDF25F00156AF6 /* 思考代替莽撞.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "思考代替莽撞.md"; sourceTree = "<group>"; };
 		FA7377B824E0D66500600A85 /* git常用操作.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "git常用操作.md"; sourceTree = "<group>"; };
 		FA7377BD24E0DB5F00600A85 /* 常用开发工具使用技巧.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "常用开发工具使用技巧.md"; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 		FA8171F924F661FD008B95B9 /* 西物 */ = {
 			isa = PBXGroup;
 			children = (
+				FA715C01250711D900A58D1B /* 西物-故事.md */,
 				1E76EC2E24FAC02B007EB745 /* 第一卷.md */,
 				FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */,
 				FA8171F824F661F7008B95B9 /* 情绪.md */,
@@ -266,6 +269,7 @@
 			files = (
 				1E76EC2F24FAC02B007EB745 /* 第一卷.md in Resources */,
 				FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */,
+				FA715C02250711D900A58D1B /* 西物-故事.md in Resources */,
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,

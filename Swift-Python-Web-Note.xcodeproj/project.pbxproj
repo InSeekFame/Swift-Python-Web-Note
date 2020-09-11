@@ -45,6 +45,9 @@
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
 		FA79630D24F7453500456107 /* 故事-罗博特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "故事-罗博特.md"; sourceTree = "<group>"; };
 		FA7AC5042505BFE500FF72D3 /* 目录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "目录.md"; sourceTree = "<group>"; };
+		FA7FCEC1250B07C70019A24D /* 性格.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "性格.md"; sourceTree = "<group>"; };
+		FA7FCEC2250B1C810019A24D /* 人设.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "人设.md"; sourceTree = "<group>"; };
+		FA7FCEC3250B51A90019A24D /* 事件-冲突.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "事件-冲突.md"; sourceTree = "<group>"; };
 		FA8025FF2500E718002C3C5D /* 哈姆雷特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "哈姆雷特.md"; sourceTree = "<group>"; };
 		FA8171F824F661F7008B95B9 /* 情绪.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "情绪.md"; sourceTree = "<group>"; };
 		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
@@ -116,6 +119,9 @@
 			isa = PBXGroup;
 			children = (
 				FA715C01250711D900A58D1B /* 西物-故事.md */,
+				FA7FCEC3250B51A90019A24D /* 事件-冲突.md */,
+				FA7FCEC1250B07C70019A24D /* 性格.md */,
+				FA7FCEC2250B1C810019A24D /* 人设.md */,
 				1E76EC2E24FAC02B007EB745 /* 第一卷.md */,
 				FA6DD2C124FCA2D80093FA74 /* 高潮故事情节设计.md */,
 				FA8171F824F661F7008B95B9 /* 情绪.md */,

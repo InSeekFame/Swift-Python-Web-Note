@@ -43,6 +43,7 @@
 		FA7377BE24E0E98100600A85 /* 致命的思维误区.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "致命的思维误区.md"; sourceTree = "<group>"; };
 		FA7377BF24E0EBBF00600A85 /* 语法规范.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "语法规范.md"; sourceTree = "<group>"; };
 		FA7377C124E14CAF00600A85 /* 兼职网址.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "兼职网址.md"; sourceTree = "<group>"; };
+		FA772CD0250F4043006C2BD1 /* 随笔.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "随笔.md"; sourceTree = "<group>"; };
 		FA79630D24F7453500456107 /* 故事-罗博特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "故事-罗博特.md"; sourceTree = "<group>"; };
 		FA7AC5042505BFE500FF72D3 /* 目录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "目录.md"; sourceTree = "<group>"; };
 		FA7FCEC1250B07C70019A24D /* 性格.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "性格.md"; sourceTree = "<group>"; };
@@ -130,6 +131,7 @@
 				1E76EC2D24FA579F007EB745 /* 即时想法.md */,
 				FA7AC5042505BFE500FF72D3 /* 目录.md */,
 				FA719FF724FDF25F00156AF6 /* 思考代替莽撞.md */,
+				FA772CD0250F4043006C2BD1 /* 随笔.md */,
 			);
 			path = "西物";
 			sourceTree = "<group>";

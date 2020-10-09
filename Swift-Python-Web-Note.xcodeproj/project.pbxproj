@@ -14,6 +14,15 @@
 		FA715C02250711D900A58D1B /* 西物-故事.md in Resources */ = {isa = PBXBuildFile; fileRef = FA715C01250711D900A58D1B /* 西物-故事.md */; };
 		FA7377B924E0D66500600A85 /* git常用操作.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377B824E0D66500600A85 /* git常用操作.md */; };
 		FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */ = {isa = PBXBuildFile; fileRef = FA7377C124E14CAF00600A85 /* 兼职网址.md */; };
+		FA8A404D25306C530017031A /* 时间简史.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404425306C520017031A /* 时间简史.txt */; };
+		FA8A404E25306C530017031A /* 人类简史·从动物到上帝.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404525306C520017031A /* 人类简史·从动物到上帝.txt */; };
+		FA8A404F25306C530017031A /* 择天记全文-下txt.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404625306C520017031A /* 择天记全文-下txt.txt */; };
+		FA8A405025306C530017031A /* 诛仙.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404725306C520017031A /* 诛仙.txt */; };
+		FA8A405125306C530017031A /* 搜神记[www.xiashu.cc].txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404825306C520017031A /* 搜神记[www.xiashu.cc].txt */; };
+		FA8A405225306C530017031A /* 西行记.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404925306C520017031A /* 西行记.txt */; };
+		FA8A405325306C530017031A /* word_txt.py in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404A25306C520017031A /* word_txt.py */; };
+		FA8A405425306C530017031A /* 东周列国志.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404B25306C530017031A /* 东周列国志.txt */; };
+		FA8A405525306C530017031A /* 择天记.txt in Resources */ = {isa = PBXBuildFile; fileRef = FA8A404C25306C530017031A /* 择天记.txt */; };
 		FA92012E24EE0C2C005F3C55 /* 我的网站-开发实录.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */; };
 		FA92EDC924E3DE2A001256AD /* CSS知识清单.md in Resources */ = {isa = PBXBuildFile; fileRef = FA92EDC824E3DE2A001256AD /* CSS知识清单.md */; };
 		FAF6255A24DD09D300FF11B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF6255924DD09D300FF11B0 /* AppDelegate.swift */; };
@@ -51,6 +60,15 @@
 		FA7FCEC3250B51A90019A24D /* 事件-冲突.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "事件-冲突.md"; sourceTree = "<group>"; };
 		FA8025FF2500E718002C3C5D /* 哈姆雷特.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "哈姆雷特.md"; sourceTree = "<group>"; };
 		FA8171F824F661F7008B95B9 /* 情绪.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "情绪.md"; sourceTree = "<group>"; };
+		FA8A404425306C520017031A /* 时间简史.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "时间简史.txt"; sourceTree = "<group>"; };
+		FA8A404525306C520017031A /* 人类简史·从动物到上帝.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "人类简史·从动物到上帝.txt"; sourceTree = "<group>"; };
+		FA8A404625306C520017031A /* 择天记全文-下txt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "择天记全文-下txt.txt"; sourceTree = "<group>"; };
+		FA8A404725306C520017031A /* 诛仙.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "诛仙.txt"; sourceTree = "<group>"; };
+		FA8A404825306C520017031A /* 搜神记[www.xiashu.cc].txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "搜神记[www.xiashu.cc].txt"; sourceTree = "<group>"; };
+		FA8A404925306C520017031A /* 西行记.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "西行记.txt"; sourceTree = "<group>"; };
+		FA8A404A25306C520017031A /* word_txt.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = word_txt.py; sourceTree = "<group>"; };
+		FA8A404B25306C530017031A /* 东周列国志.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "东周列国志.txt"; sourceTree = "<group>"; };
+		FA8A404C25306C530017031A /* 择天记.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "择天记.txt"; sourceTree = "<group>"; };
 		FA92012D24EE0C2C005F3C55 /* 我的网站-开发实录.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "我的网站-开发实录.md"; sourceTree = "<group>"; };
 		FA92EDC824E3DE2A001256AD /* CSS知识清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "CSS知识清单.md"; sourceTree = "<group>"; };
 		FA92EDE624E531C4001256AD /* HTML清单.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "HTML清单.md"; sourceTree = "<group>"; };
@@ -101,6 +119,15 @@
 		FA8025FE2500E6D9002C3C5D /* MyBooks */ = {
 			isa = PBXGroup;
 			children = (
+				FA8A404B25306C530017031A /* 东周列国志.txt */,
+				FA8A404525306C520017031A /* 人类简史·从动物到上帝.txt */,
+				FA8A404425306C520017031A /* 时间简史.txt */,
+				FA8A404825306C520017031A /* 搜神记[www.xiashu.cc].txt */,
+				FA8A404925306C520017031A /* 西行记.txt */,
+				FA8A404C25306C530017031A /* 择天记.txt */,
+				FA8A404625306C520017031A /* 择天记全文-下txt.txt */,
+				FA8A404725306C520017031A /* 诛仙.txt */,
+				FA8A404A25306C520017031A /* word_txt.py */,
 				FA8025FF2500E718002C3C5D /* 哈姆雷特.md */,
 			);
 			path = MyBooks;
@@ -276,18 +303,27 @@
 			buildActionMask = 2147483647;
 			files = (
 				1E76EC2F24FAC02B007EB745 /* 第一卷.md in Resources */,
+				FA8A404E25306C530017031A /* 人类简史·从动物到上帝.txt in Resources */,
+				FA8A405125306C530017031A /* 搜神记[www.xiashu.cc].txt in Resources */,
 				FA7377C224E14CAF00600A85 /* 兼职网址.md in Resources */,
+				FA8A405225306C530017031A /* 西行记.txt in Resources */,
 				FA715C02250711D900A58D1B /* 西物-故事.md in Resources */,
+				FA8A404D25306C530017031A /* 时间简史.txt in Resources */,
 				FAF6256924DD09D500FF11B0 /* LaunchScreen.storyboard in Resources */,
+				FA8A405025306C530017031A /* 诛仙.txt in Resources */,
 				FAF6256624DD09D500FF11B0 /* Assets.xcassets in Resources */,
+				FA8A405325306C530017031A /* word_txt.py in Resources */,
 				FAF6256124DD09D300FF11B0 /* Main.storyboard in Resources */,
 				1E860A2E24DFB4850065D6AA /* SQLAlchemy-Operation.md in Resources */,
 				FA92EDC924E3DE2A001256AD /* CSS知识清单.md in Resources */,
+				FA8A405525306C530017031A /* 择天记.txt in Resources */,
 				FAF6257524DD173A00FF11B0 /* QLAlchemy数据库.md in Resources */,
 				FAF6257C24DD44EF00FF11B0 /* 423456.png in Resources */,
+				FA8A404F25306C530017031A /* 择天记全文-下txt.txt in Resources */,
 				FA7377B924E0D66500600A85 /* git常用操作.md in Resources */,
 				FA6FFF6C24EBA8E2002DC37F /* IOS开发难点笔录.md in Resources */,
 				1EFC2F5E24DE8A0A0083579D /* Python-PyCharm_Install.md in Resources */,
+				FA8A405425306C530017031A /* 东周列国志.txt in Resources */,
 				FA92012E24EE0C2C005F3C55 /* 我的网站-开发实录.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
